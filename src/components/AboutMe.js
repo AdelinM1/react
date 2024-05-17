@@ -4,7 +4,7 @@ const AboutMe = () => {
   return (
     <section>
       <h2>About Me</h2>
-      <p>Insert your bio here.</p>
+      <p>I am learning</p>
     </section>
   );
 };
